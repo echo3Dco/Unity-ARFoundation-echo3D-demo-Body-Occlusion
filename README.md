@@ -21,11 +21,11 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://consol
 
 
 ## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echo3D.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 
 
 ## Support
-Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE).
+Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
 
 
 ## Screenshots
